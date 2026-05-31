@@ -20,7 +20,7 @@ If you believe someone has stolen your jingles and uploaded them to this reposit
 
 # Contributors
 Flapperultra
-Cirno
+CirnoWaifu
 RetroWave64
 Gracie Failfox
 Subspex

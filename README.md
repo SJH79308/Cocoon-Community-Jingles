@@ -24,3 +24,7 @@ If you believe someone has stolen your jingles and uploaded them to this reposit
 - RetroWave64
 - Gracie Failfox
 - Subspex
+- Felipne87r
+- BeaniesEXe
+- Eats_Dirt
+- EvilMain

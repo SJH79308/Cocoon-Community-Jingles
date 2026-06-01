@@ -51,12 +51,12 @@ for platform in sorted(os.listdir(ROOT_DIR)):
         entries.append({
             "game": display_name,
             "file": f"jingles/{platform}/{file}",
-            #"regex": make_regex(display_name)
+            "regex": make_regex(display_name)
         })
 
     data[platform] = entries
 
-with open("jingles.json", "w", encoding="utf-8") as f:
+with open("index.json", "w", encoding="utf-8") as f:
     json.dump(data, f, indent=4, ensure_ascii=False)
 
 print("Generated jingles.json")

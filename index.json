@@ -59,13 +59,13 @@
             "regex": "^monster[^a-z0-9]*hunter[^a-z0-9]*ultimate$|^monsterhunterultimate$"
         },
         {
-            "game": "Resident_Evil_Mercenaries_3D",
-            "file": "jingles/3ds/Resident_Evil_Mercenaries_3D (EvilMain).ogg",
+            "game": "Resident Evil Mercenaries 3D",
+            "file": "jingles/3ds/Resident Evil Mercenaries 3D (EvilMain).ogg",
             "regex": "^resident[^a-z0-9]*evil[^a-z0-9]*mercenaries[^a-z0-9]*3d$|^residentevilmercenaries3d$"
         },
         {
-            "game": "Resident_Evil_Revelations",
-            "file": "jingles/3ds/Resident_Evil_Revelations (EvilMain).ogg",
+            "game": "Resident Evil Revelations",
+            "file": "jingles/3ds/Resident Evil Revelations (EvilMain).ogg",
             "regex": "^resident[^a-z0-9]*evil[^a-z0-9]*revelations$|^residentevilrevelations$"
         },
         {
@@ -126,8 +126,8 @@
             "regex": "^angry[^a-z0-9]*birds[^a-z0-9]*2$|^angrybirds2$"
         },
         {
-            "game": "CookieRun_OvenSmash",
-            "file": "jingles/android/CookieRun_OvenSmash (EvilMain).ogg",
+            "game": "CookieRun OvenSmash",
+            "file": "jingles/android/CookieRun OvenSmash (EvilMain).ogg",
             "regex": "^cookierun[^a-z0-9]*ovensmash$|^cookierunovensmash$"
         },
         {
@@ -301,8 +301,8 @@
             "regex": "^yo[^a-z0-9]*kai[^a-z0-9]*watch[^a-z0-9]*gerapo[^a-z0-9]*rhythm$|^yokaiwatchgeraporhythm$"
         },
         {
-            "game": "Yo-Kai-Watch-Wibble-Wobble",
-            "file": "jingles/android/Yo-Kai-Watch-Wibble-Wobble (Felipne87r).ogg",
+            "game": "Yo-Kai Watch Wibble Wobble",
+            "file": "jingles/android/Yo-Kai Watch Wibble Wobble (Felipne87r).ogg",
             "regex": "^yo[^a-z0-9]*kai[^a-z0-9]*watch[^a-z0-9]*wibble[^a-z0-9]*wobble$|^yokaiwatchwibblewobble$"
         },
         {
@@ -333,8 +333,8 @@
             "regex": "^marvel[^a-z0-9]*vs$|^marvelvs$"
         },
         {
-            "game": "Power_Stone",
-            "file": "jingles/dreamcast/Power_Stone (EvilMain).ogg",
+            "game": "Power Stone",
+            "file": "jingles/dreamcast/Power Stone (EvilMain).ogg",
             "regex": "^power[^a-z0-9]*stone$|^powerstone$"
         },
         {
@@ -590,23 +590,23 @@
             "regex": "^rayman[^a-z0-9]*3[^a-z0-9]*hoodlum[^a-z0-9]*havoc$|^rayman3hoodlumhavoc$"
         },
         {
+            "game": "Resident Evil 0",
+            "file": "jingles/gamecube/Resident Evil 0 (EvilMain).ogg",
+            "regex": "^resident[^a-z0-9]*evil[^a-z0-9]*0$|^residentevil0$"
+        },
+        {
             "game": "Resident Evil 1 Remake",
             "file": "jingles/gamecube/Resident Evil 1 Remake (RetroWave64).ogg",
             "regex": "^resident[^a-z0-9]*evil[^a-z0-9]*1[^a-z0-9]*remake$|^residentevil1remake$"
         },
         {
-            "game": "Resident_Evil_0",
-            "file": "jingles/gamecube/Resident_Evil_0 (EvilMain).ogg",
-            "regex": "^resident[^a-z0-9]*evil[^a-z0-9]*0$|^residentevil0$"
-        },
-        {
-            "game": "Resident_Evil_4",
-            "file": "jingles/gamecube/Resident_Evil_4 (EvilMain).ogg",
+            "game": "Resident Evil 4",
+            "file": "jingles/gamecube/Resident Evil 4 (EvilMain).ogg",
             "regex": "^resident[^a-z0-9]*evil[^a-z0-9]*4$|^residentevil4$"
         },
         {
-            "game": "Resident_Evil_Code_Veronica_X",
-            "file": "jingles/gamecube/Resident_Evil_Code_Veronica_X (EvilMain).ogg",
+            "game": "Resident Evil Code Veronica X",
+            "file": "jingles/gamecube/Resident Evil Code Veronica X (EvilMain).ogg",
             "regex": "^resident[^a-z0-9]*evil[^a-z0-9]*code[^a-z0-9]*veronica[^a-z0-9]*x$|^residentevilcodeveronicax$"
         },
         {
@@ -4895,8 +4895,8 @@
             "regex": "^blue[^a-z0-9]*prince$|^blueprince$"
         },
         {
-            "game": "Broke_Sword_Shadow_of_the_Templars_Reforged",
-            "file": "jingles/pc steam & multiplat/Broke_Sword_Shadow_of_the_Templars_Reforged (EvilMain).ogg",
+            "game": "Broke Sword Shadow of the Templars Reforged",
+            "file": "jingles/pc steam & multiplat/Broke Sword Shadow of the Templars Reforged (EvilMain).ogg",
             "regex": "^broke[^a-z0-9]*sword[^a-z0-9]*shadow[^a-z0-9]*of[^a-z0-9]*the[^a-z0-9]*templars[^a-z0-9]*reforged$|^brokeswordshadowofthetemplarsreforged$"
         },
         {
@@ -4925,8 +4925,8 @@
             "regex": "^copy[^a-z0-9]*kitty$|^copykitty$"
         },
         {
-            "game": "Crow_Country",
-            "file": "jingles/pc steam & multiplat/Crow_Country (EvilMain).ogg",
+            "game": "Crow Country",
+            "file": "jingles/pc steam & multiplat/Crow Country (EvilMain).ogg",
             "regex": "^crow[^a-z0-9]*country$|^crowcountry$"
         },
         {
@@ -4950,8 +4950,8 @@
             "regex": "^doom[^a-z0-9]*2016$|^doom2016$"
         },
         {
-            "game": "Dave_the_Diver",
-            "file": "jingles/pc steam & multiplat/Dave_the_Diver (EvilMain).ogg",
+            "game": "Dave the Diver",
+            "file": "jingles/pc steam & multiplat/Dave the Diver (EvilMain).ogg",
             "regex": "^dave[^a-z0-9]*the[^a-z0-9]*diver$|^davethediver$"
         },
         {
@@ -5090,8 +5090,8 @@
             "regex": "^fairy[^a-z0-9]*fencer[^a-z0-9]*f[^a-z0-9]*refrain[^a-z0-9]*chord$|^fairyfencerfrefrainchord$"
         },
         {
-            "game": "Fall_Guys",
-            "file": "jingles/pc steam & multiplat/Fall_Guys (EvilMain).ogg",
+            "game": "Fall Guys",
+            "file": "jingles/pc steam & multiplat/Fall Guys (EvilMain).ogg",
             "regex": "^fall[^a-z0-9]*guys$|^fallguys$"
         },
         {
@@ -5310,8 +5310,8 @@
             "regex": "^last[^a-z0-9]*command$|^lastcommand$"
         },
         {
-            "game": "Left_4_Dead",
-            "file": "jingles/pc steam & multiplat/Left_4_Dead (EvilMain).ogg",
+            "game": "Left 4 Dead",
+            "file": "jingles/pc steam & multiplat/Left 4 Dead (EvilMain).ogg",
             "regex": "^left[^a-z0-9]*4[^a-z0-9]*dead$|^left4dead$"
         },
         {
@@ -5405,8 +5405,8 @@
             "regex": "^miles[^a-z0-9]*edgeworth[^a-z0-9]*collection$|^milesedgeworthcollection$"
         },
         {
-            "game": "Mina_The_Hollower",
-            "file": "jingles/pc steam & multiplat/Mina_The_Hollower (EvilMain).ogg",
+            "game": "Mina The Hollower",
+            "file": "jingles/pc steam & multiplat/Mina The Hollower (EvilMain).ogg",
             "regex": "^mina[^a-z0-9]*the[^a-z0-9]*hollower$|^minathehollower$"
         },
         {
@@ -5450,13 +5450,13 @@
             "regex": "^obscure$|^obscure$"
         },
         {
-            "game": "Obscure_2",
-            "file": "jingles/pc steam & multiplat/Obscure_2 (EvilMain).ogg",
+            "game": "Obscure 2",
+            "file": "jingles/pc steam & multiplat/Obscure 2 (EvilMain).ogg",
             "regex": "^obscure[^a-z0-9]*2$|^obscure2$"
         },
         {
-            "game": "Obscure_The_Aftermath",
-            "file": "jingles/pc steam & multiplat/Obscure_The_Aftermath (EvilMain).ogg",
+            "game": "Obscure The Aftermath",
+            "file": "jingles/pc steam & multiplat/Obscure The Aftermath (EvilMain).ogg",
             "regex": "^obscure[^a-z0-9]*the[^a-z0-9]*aftermath$|^obscuretheaftermath$"
         },
         {
@@ -5590,54 +5590,54 @@
             "regex": "^red[^a-z0-9]*dead[^a-z0-9]*redemption$|^reddeadredemption$"
         },
         {
-            "game": "Resident Evil Survivor",
-            "file": "jingles/pc steam & multiplat/Resident Evil Survivor (CirnoWaifu).ogg",
-            "regex": "^resident[^a-z0-9]*evil[^a-z0-9]*survivor$|^residentevilsurvivor$"
-        },
-        {
-            "game": "Resident_Evil_5",
-            "file": "jingles/pc steam & multiplat/Resident_Evil_5 (EvilMain).ogg",
+            "game": "Resident Evil 5",
+            "file": "jingles/pc steam & multiplat/Resident Evil 5 (EvilMain).ogg",
             "regex": "^resident[^a-z0-9]*evil[^a-z0-9]*5$|^residentevil5$"
         },
         {
-            "game": "Resident_Evil_6",
-            "file": "jingles/pc steam & multiplat/Resident_Evil_6 (EvilMain).ogg",
+            "game": "Resident Evil 6",
+            "file": "jingles/pc steam & multiplat/Resident Evil 6 (EvilMain).ogg",
             "regex": "^resident[^a-z0-9]*evil[^a-z0-9]*6$|^residentevil6$"
         },
         {
-            "game": "Resident_Evil_7",
-            "file": "jingles/pc steam & multiplat/Resident_Evil_7 (EvilMain).ogg",
+            "game": "Resident Evil 7",
+            "file": "jingles/pc steam & multiplat/Resident Evil 7 (EvilMain).ogg",
             "regex": "^resident[^a-z0-9]*evil[^a-z0-9]*7$|^residentevil7$"
         },
         {
-            "game": "Resident_Evil_New",
-            "file": "jingles/pc steam & multiplat/Resident_Evil_New (EvilMain).ogg",
+            "game": "Resident Evil New",
+            "file": "jingles/pc steam & multiplat/Resident Evil New (EvilMain).ogg",
             "regex": "^resident[^a-z0-9]*evil[^a-z0-9]*new$|^residentevilnew$"
         },
         {
-            "game": "Resident_Evil_Outbreak",
-            "file": "jingles/pc steam & multiplat/Resident_Evil_Outbreak (EvilMain).ogg",
+            "game": "Resident Evil Outbreak",
+            "file": "jingles/pc steam & multiplat/Resident Evil Outbreak (EvilMain).ogg",
             "regex": "^resident[^a-z0-9]*evil[^a-z0-9]*outbreak$|^residenteviloutbreak$"
         },
         {
-            "game": "Resident_Evil_Outbreak_File_2",
-            "file": "jingles/pc steam & multiplat/Resident_Evil_Outbreak_File_2 (EvilMain).ogg",
+            "game": "Resident Evil Outbreak File 2",
+            "file": "jingles/pc steam & multiplat/Resident Evil Outbreak File 2 (EvilMain).ogg",
             "regex": "^resident[^a-z0-9]*evil[^a-z0-9]*outbreak[^a-z0-9]*file[^a-z0-9]*2$|^residenteviloutbreakfile2$"
         },
         {
-            "game": "Resident_Evil_Outbreak_File_2_v2",
-            "file": "jingles/pc steam & multiplat/Resident_Evil_Outbreak_File_2_v2 (EvilMain).ogg",
+            "game": "Resident Evil Outbreak File 2 v2",
+            "file": "jingles/pc steam & multiplat/Resident Evil Outbreak File 2 v2 (EvilMain).ogg",
             "regex": "^resident[^a-z0-9]*evil[^a-z0-9]*outbreak[^a-z0-9]*file[^a-z0-9]*2[^a-z0-9]*v2$|^residenteviloutbreakfile2v2$"
         },
         {
-            "game": "Resident_Evil_Outbreak_v2",
-            "file": "jingles/pc steam & multiplat/Resident_Evil_Outbreak_v2 (EvilMain).ogg",
+            "game": "Resident Evil Outbreak v2",
+            "file": "jingles/pc steam & multiplat/Resident Evil Outbreak v2 (EvilMain).ogg",
             "regex": "^resident[^a-z0-9]*evil[^a-z0-9]*outbreak[^a-z0-9]*v2$|^residenteviloutbreakv2$"
         },
         {
-            "game": "Resident_Evil_Revelations_2",
-            "file": "jingles/pc steam & multiplat/Resident_Evil_Revelations_2 (EvilMain).ogg",
+            "game": "Resident Evil Revelations 2",
+            "file": "jingles/pc steam & multiplat/Resident Evil Revelations 2 (EvilMain).ogg",
             "regex": "^resident[^a-z0-9]*evil[^a-z0-9]*revelations[^a-z0-9]*2$|^residentevilrevelations2$"
+        },
+        {
+            "game": "Resident Evil Survivor",
+            "file": "jingles/pc steam & multiplat/Resident Evil Survivor (CirnoWaifu).ogg",
+            "regex": "^resident[^a-z0-9]*evil[^a-z0-9]*survivor$|^residentevilsurvivor$"
         },
         {
             "game": "Return to Monkey Island",
@@ -5660,8 +5660,8 @@
             "regex": "^signalis$|^signalis$"
         },
         {
-            "game": "Scribblenauts_Unmasked",
-            "file": "jingles/pc steam & multiplat/Scribblenauts_Unmasked (EvilMain).ogg",
+            "game": "Scribblenauts Unmasked",
+            "file": "jingles/pc steam & multiplat/Scribblenauts Unmasked (EvilMain).ogg",
             "regex": "^scribblenauts[^a-z0-9]*unmasked$|^scribblenautsunmasked$"
         },
         {
@@ -5850,8 +5850,8 @@
             "regex": "^team[^a-z0-9]*fortress[^a-z0-9]*2$|^teamfortress2$"
         },
         {
-            "game": "Tekken_6",
-            "file": "jingles/pc steam & multiplat/Tekken_6 (EvilMain).ogg",
+            "game": "Tekken 6",
+            "file": "jingles/pc steam & multiplat/Tekken 6 (EvilMain).ogg",
             "regex": "^tekken[^a-z0-9]*6$|^tekken6$"
         },
         {
@@ -6508,14 +6508,14 @@
             "regex": "^silent[^a-z0-9]*hill[^a-z0-9]*4[^a-z0-9]*the[^a-z0-9]*room$|^silenthill4theroom$"
         },
         {
+            "game": "Silent Hill Origins",
+            "file": "jingles/ps2/Silent Hill Origins (EvilMain).ogg",
+            "regex": "^silent[^a-z0-9]*hill[^a-z0-9]*origins$|^silenthillorigins$"
+        },
+        {
             "game": "Silent Hill Shattered Memories",
             "file": "jingles/ps2/Silent Hill Shattered Memories (RetroWave64).ogg",
             "regex": "^silent[^a-z0-9]*hill[^a-z0-9]*shattered[^a-z0-9]*memories$|^silenthillshatteredmemories$"
-        },
-        {
-            "game": "Silent_Hill_Origins",
-            "file": "jingles/ps2/Silent_Hill_Origins (EvilMain).ogg",
-            "regex": "^silent[^a-z0-9]*hill[^a-z0-9]*origins$|^silenthillorigins$"
         },
         {
             "game": "Sly 2 - Band of Thieves",
@@ -7335,6 +7335,11 @@
         },
         {
             "game": "Resident Evil",
+            "file": "jingles/psx/Resident Evil (EvilMain).ogg",
+            "regex": "^resident[^a-z0-9]*evil$|^residentevil$"
+        },
+        {
+            "game": "Resident Evil",
             "file": "jingles/psx/Resident Evil (flapperultra).ogg",
             "regex": "^resident[^a-z0-9]*evil$|^residentevil$"
         },
@@ -7345,8 +7350,18 @@
         },
         {
             "game": "Resident Evil 2",
+            "file": "jingles/psx/Resident Evil 2 (EvilMain).ogg",
+            "regex": "^resident[^a-z0-9]*evil[^a-z0-9]*2$|^residentevil2$"
+        },
+        {
+            "game": "Resident Evil 2",
             "file": "jingles/psx/Resident Evil 2 (RetroWave64).ogg",
             "regex": "^resident[^a-z0-9]*evil[^a-z0-9]*2$|^residentevil2$"
+        },
+        {
+            "game": "Resident Evil 3",
+            "file": "jingles/psx/Resident Evil 3 (EvilMain).ogg",
+            "regex": "^resident[^a-z0-9]*evil[^a-z0-9]*3$|^residentevil3$"
         },
         {
             "game": "Resident Evil 3",
@@ -7362,21 +7377,6 @@
             "game": "Resident evil 2",
             "file": "jingles/psx/Resident evil 2 (flapperultra).ogg",
             "regex": "^resident[^a-z0-9]*evil[^a-z0-9]*2$|^residentevil2$"
-        },
-        {
-            "game": "Resident_Evil",
-            "file": "jingles/psx/Resident_Evil (EvilMain).ogg",
-            "regex": "^resident[^a-z0-9]*evil$|^residentevil$"
-        },
-        {
-            "game": "Resident_Evil_2",
-            "file": "jingles/psx/Resident_Evil_2 (EvilMain).ogg",
-            "regex": "^resident[^a-z0-9]*evil[^a-z0-9]*2$|^residentevil2$"
-        },
-        {
-            "game": "Resident_Evil_3",
-            "file": "jingles/psx/Resident_Evil_3 (EvilMain).ogg",
-            "regex": "^resident[^a-z0-9]*evil[^a-z0-9]*3$|^residentevil3$"
         },
         {
             "game": "Rival Schools",
@@ -8475,8 +8475,8 @@
             "regex": "^mario[^a-z0-9]*and[^a-z0-9]*luigi[^a-z0-9]*brothership$|^marioandluigibrothership$"
         },
         {
-            "game": "Marvel_Cosmic_Invasion",
-            "file": "jingles/switch/Marvel_Cosmic_Invasion (EvilMain).ogg",
+            "game": "Marvel Cosmic Invasion",
+            "file": "jingles/switch/Marvel Cosmic Invasion (EvilMain).ogg",
             "regex": "^marvel[^a-z0-9]*cosmic[^a-z0-9]*invasion$|^marvelcosmicinvasion$"
         },
         {
@@ -8505,14 +8505,14 @@
             "regex": "^metroid[^a-z0-9]*dread$|^metroiddread$"
         },
         {
+            "game": "Metroid Prime 4 Beyond",
+            "file": "jingles/switch/Metroid Prime 4 Beyond (EvilMain).ogg",
+            "regex": "^metroid[^a-z0-9]*prime[^a-z0-9]*4[^a-z0-9]*beyond$|^metroidprime4beyond$"
+        },
+        {
             "game": "Metroid Prime Remastered",
             "file": "jingles/switch/Metroid Prime Remastered (flapperultra).ogg",
             "regex": "^metroid[^a-z0-9]*prime[^a-z0-9]*remastered$|^metroidprimeremastered$"
-        },
-        {
-            "game": "Metroid_Prime_4_Beyond",
-            "file": "jingles/switch/Metroid_Prime_4_Beyond (EvilMain).ogg",
-            "regex": "^metroid[^a-z0-9]*prime[^a-z0-9]*4[^a-z0-9]*beyond$|^metroidprime4beyond$"
         },
         {
             "game": "Miitopia",

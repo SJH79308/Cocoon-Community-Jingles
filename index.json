@@ -1086,6 +1086,166 @@
             "regex": "^fnf$|^fnf$"
         },
         {
+            "game": "Geometry Dash (SFX1)",
+            "file": "jingles/android/SJH/Geometry Dash (SFX1) (SJH).mp3",
+            "regex": "^geometry[^a-z0-9]*dash[^a-z0-9]*sfx1$|^geometrydashsfx1$"
+        },
+        {
+            "game": "Geometry Dash (SFX2)",
+            "file": "jingles/android/SJH/Geometry Dash (SFX2) (SJH).mp3",
+            "regex": "^geometry[^a-z0-9]*dash[^a-z0-9]*sfx2$|^geometrydashsfx2$"
+        },
+        {
+            "game": "Geometry Dash (SFX3)",
+            "file": "jingles/android/SJH/Geometry Dash (SFX3) (SJH).mp3",
+            "regex": "^geometry[^a-z0-9]*dash[^a-z0-9]*sfx3$|^geometrydashsfx3$"
+        },
+        {
+            "game": "Geometry Dash (SFX4)",
+            "file": "jingles/android/SJH/Geometry Dash (SFX4) (SJH).mp3",
+            "regex": "^geometry[^a-z0-9]*dash[^a-z0-9]*sfx4$|^geometrydashsfx4$"
+        },
+        {
+            "game": "Geometry Dash (SFX5)",
+            "file": "jingles/android/SJH/Geometry Dash (SFX5) (SJH).mp3",
+            "regex": "^geometry[^a-z0-9]*dash[^a-z0-9]*sfx5$|^geometrydashsfx5$"
+        },
+        {
+            "game": "Geometry Dash (SFX6)",
+            "file": "jingles/android/SJH/Geometry Dash (SFX6) (SJH).mp3",
+            "regex": "^geometry[^a-z0-9]*dash[^a-z0-9]*sfx6$|^geometrydashsfx6$"
+        },
+        {
+            "game": "Geometry Dash (SFX7)",
+            "file": "jingles/android/SJH/Geometry Dash (SFX7) (SJH).mp3",
+            "regex": "^geometry[^a-z0-9]*dash[^a-z0-9]*sfx7$|^geometrydashsfx7$"
+        },
+        {
+            "game": "Geometry Dash (SFX8)",
+            "file": "jingles/android/SJH/Geometry Dash (SFX8) (SJH).mp3",
+            "regex": "^geometry[^a-z0-9]*dash[^a-z0-9]*sfx8$|^geometrydashsfx8$"
+        },
+        {
+            "game": "Geometry Dash (V1)",
+            "file": "jingles/android/SJH/Geometry Dash (V1) (SJH).mp3",
+            "regex": "^geometry[^a-z0-9]*dash[^a-z0-9]*v1$|^geometrydashv1$"
+        },
+        {
+            "game": "Geometry Dash (V10)",
+            "file": "jingles/android/SJH/Geometry Dash (V10) (SJH).mp3",
+            "regex": "^geometry[^a-z0-9]*dash[^a-z0-9]*v10$|^geometrydashv10$"
+        },
+        {
+            "game": "Geometry Dash (V11)",
+            "file": "jingles/android/SJH/Geometry Dash (V11) (SJH).mp3",
+            "regex": "^geometry[^a-z0-9]*dash[^a-z0-9]*v11$|^geometrydashv11$"
+        },
+        {
+            "game": "Geometry Dash (V12)",
+            "file": "jingles/android/SJH/Geometry Dash (V12) (SJH).mp3",
+            "regex": "^geometry[^a-z0-9]*dash[^a-z0-9]*v12$|^geometrydashv12$"
+        },
+        {
+            "game": "Geometry Dash (V13)",
+            "file": "jingles/android/SJH/Geometry Dash (V13) (SJH).mp3",
+            "regex": "^geometry[^a-z0-9]*dash[^a-z0-9]*v13$|^geometrydashv13$"
+        },
+        {
+            "game": "Geometry Dash (V14)",
+            "file": "jingles/android/SJH/Geometry Dash (V14) (SJH).mp3",
+            "regex": "^geometry[^a-z0-9]*dash[^a-z0-9]*v14$|^geometrydashv14$"
+        },
+        {
+            "game": "Geometry Dash (V15)",
+            "file": "jingles/android/SJH/Geometry Dash (V15) (SJH).mp3",
+            "regex": "^geometry[^a-z0-9]*dash[^a-z0-9]*v15$|^geometrydashv15$"
+        },
+        {
+            "game": "Geometry Dash (V16)",
+            "file": "jingles/android/SJH/Geometry Dash (V16) (SJH).mp3",
+            "regex": "^geometry[^a-z0-9]*dash[^a-z0-9]*v16$|^geometrydashv16$"
+        },
+        {
+            "game": "Geometry Dash (V17)",
+            "file": "jingles/android/SJH/Geometry Dash (V17) (SJH).mp3",
+            "regex": "^geometry[^a-z0-9]*dash[^a-z0-9]*v17$|^geometrydashv17$"
+        },
+        {
+            "game": "Geometry Dash (V18)",
+            "file": "jingles/android/SJH/Geometry Dash (V18) (SJH).mp3",
+            "regex": "^geometry[^a-z0-9]*dash[^a-z0-9]*v18$|^geometrydashv18$"
+        },
+        {
+            "game": "Geometry Dash (V19)",
+            "file": "jingles/android/SJH/Geometry Dash (V19) (SJH).mp3",
+            "regex": "^geometry[^a-z0-9]*dash[^a-z0-9]*v19$|^geometrydashv19$"
+        },
+        {
+            "game": "Geometry Dash (V2)",
+            "file": "jingles/android/SJH/Geometry Dash (V2) (SJH).mp3",
+            "regex": "^geometry[^a-z0-9]*dash[^a-z0-9]*v2$|^geometrydashv2$"
+        },
+        {
+            "game": "Geometry Dash (V20)",
+            "file": "jingles/android/SJH/Geometry Dash (V20) (SJH).mp3",
+            "regex": "^geometry[^a-z0-9]*dash[^a-z0-9]*v20$|^geometrydashv20$"
+        },
+        {
+            "game": "Geometry Dash (V21)",
+            "file": "jingles/android/SJH/Geometry Dash (V21) (SJH).mp3",
+            "regex": "^geometry[^a-z0-9]*dash[^a-z0-9]*v21$|^geometrydashv21$"
+        },
+        {
+            "game": "Geometry Dash (V22)",
+            "file": "jingles/android/SJH/Geometry Dash (V22) (SJH).mp3",
+            "regex": "^geometry[^a-z0-9]*dash[^a-z0-9]*v22$|^geometrydashv22$"
+        },
+        {
+            "game": "Geometry Dash (V23)",
+            "file": "jingles/android/SJH/Geometry Dash (V23) (SJH).mp3",
+            "regex": "^geometry[^a-z0-9]*dash[^a-z0-9]*v23$|^geometrydashv23$"
+        },
+        {
+            "game": "Geometry Dash (V24)",
+            "file": "jingles/android/SJH/Geometry Dash (V24) (SJH).mp3",
+            "regex": "^geometry[^a-z0-9]*dash[^a-z0-9]*v24$|^geometrydashv24$"
+        },
+        {
+            "game": "Geometry Dash (V3)",
+            "file": "jingles/android/SJH/Geometry Dash (V3) (SJH).mp3",
+            "regex": "^geometry[^a-z0-9]*dash[^a-z0-9]*v3$|^geometrydashv3$"
+        },
+        {
+            "game": "Geometry Dash (V4)",
+            "file": "jingles/android/SJH/Geometry Dash (V4) (SJH).mp3",
+            "regex": "^geometry[^a-z0-9]*dash[^a-z0-9]*v4$|^geometrydashv4$"
+        },
+        {
+            "game": "Geometry Dash (V5)",
+            "file": "jingles/android/SJH/Geometry Dash (V5) (SJH).mp3",
+            "regex": "^geometry[^a-z0-9]*dash[^a-z0-9]*v5$|^geometrydashv5$"
+        },
+        {
+            "game": "Geometry Dash (V6)",
+            "file": "jingles/android/SJH/Geometry Dash (V6) (SJH).mp3",
+            "regex": "^geometry[^a-z0-9]*dash[^a-z0-9]*v6$|^geometrydashv6$"
+        },
+        {
+            "game": "Geometry Dash (V7)",
+            "file": "jingles/android/SJH/Geometry Dash (V7) (SJH).mp3",
+            "regex": "^geometry[^a-z0-9]*dash[^a-z0-9]*v7$|^geometrydashv7$"
+        },
+        {
+            "game": "Geometry Dash (V8)",
+            "file": "jingles/android/SJH/Geometry Dash (V8) (SJH).mp3",
+            "regex": "^geometry[^a-z0-9]*dash[^a-z0-9]*v8$|^geometrydashv8$"
+        },
+        {
+            "game": "Geometry Dash (V9)",
+            "file": "jingles/android/SJH/Geometry Dash (V9) (SJH).mp3",
+            "regex": "^geometry[^a-z0-9]*dash[^a-z0-9]*v9$|^geometrydashv9$"
+        },
+        {
             "game": "HBO Max",
             "file": "jingles/android/Felipne87r/HBO Max (Felipne87r).ogg",
             "regex": "^hbo[^a-z0-9]*max$|^hbomax$"
@@ -4588,6 +4748,66 @@
             "regex": "^avalon[^a-z0-9]*code[^a-z0-9]*short$|^avaloncodeshort$"
         },
         {
+            "game": "Bejeweled 3 (V1)",
+            "file": "jingles/nds/SJH/Bejeweled 3 (V1) (SJH).mp3",
+            "regex": "^bejeweled[^a-z0-9]*3[^a-z0-9]*v1$|^bejeweled3v1$"
+        },
+        {
+            "game": "Bejeweled 3 (V2)",
+            "file": "jingles/nds/SJH/Bejeweled 3 (V2) (SJH).mp3",
+            "regex": "^bejeweled[^a-z0-9]*3[^a-z0-9]*v2$|^bejeweled3v2$"
+        },
+        {
+            "game": "Bejeweled Twist (V1)",
+            "file": "jingles/nds/SJH/Bejeweled Twist (V1) (SJH).mp3",
+            "regex": "^bejeweled[^a-z0-9]*twist[^a-z0-9]*v1$|^bejeweledtwistv1$"
+        },
+        {
+            "game": "Bejeweled Twist (V10)",
+            "file": "jingles/nds/SJH/Bejeweled Twist (V10) (SJH).mp3",
+            "regex": "^bejeweled[^a-z0-9]*twist[^a-z0-9]*v10$|^bejeweledtwistv10$"
+        },
+        {
+            "game": "Bejeweled Twist (V2)",
+            "file": "jingles/nds/SJH/Bejeweled Twist (V2) (SJH).mp3",
+            "regex": "^bejeweled[^a-z0-9]*twist[^a-z0-9]*v2$|^bejeweledtwistv2$"
+        },
+        {
+            "game": "Bejeweled Twist (V3)",
+            "file": "jingles/nds/SJH/Bejeweled Twist (V3) (SJH).mp3",
+            "regex": "^bejeweled[^a-z0-9]*twist[^a-z0-9]*v3$|^bejeweledtwistv3$"
+        },
+        {
+            "game": "Bejeweled Twist (V4)",
+            "file": "jingles/nds/SJH/Bejeweled Twist (V4) (SJH).mp3",
+            "regex": "^bejeweled[^a-z0-9]*twist[^a-z0-9]*v4$|^bejeweledtwistv4$"
+        },
+        {
+            "game": "Bejeweled Twist (V5)",
+            "file": "jingles/nds/SJH/Bejeweled Twist (V5) (SJH).mp3",
+            "regex": "^bejeweled[^a-z0-9]*twist[^a-z0-9]*v5$|^bejeweledtwistv5$"
+        },
+        {
+            "game": "Bejeweled Twist (V6)",
+            "file": "jingles/nds/SJH/Bejeweled Twist (V6) (SJH).mp3",
+            "regex": "^bejeweled[^a-z0-9]*twist[^a-z0-9]*v6$|^bejeweledtwistv6$"
+        },
+        {
+            "game": "Bejeweled Twist (V7)",
+            "file": "jingles/nds/SJH/Bejeweled Twist (V7) (SJH).mp3",
+            "regex": "^bejeweled[^a-z0-9]*twist[^a-z0-9]*v7$|^bejeweledtwistv7$"
+        },
+        {
+            "game": "Bejeweled Twist (V8)",
+            "file": "jingles/nds/SJH/Bejeweled Twist (V8) (SJH).mp3",
+            "regex": "^bejeweled[^a-z0-9]*twist[^a-z0-9]*v8$|^bejeweledtwistv8$"
+        },
+        {
+            "game": "Bejeweled Twist (V9)",
+            "file": "jingles/nds/SJH/Bejeweled Twist (V9) (SJH).mp3",
+            "regex": "^bejeweled[^a-z0-9]*twist[^a-z0-9]*v9$|^bejeweledtwistv9$"
+        },
+        {
             "game": "Blue Dragon Plus",
             "file": "jingles/nds/flapperultra/Blue Dragon Plus (flapperultra).ogg",
             "regex": "^blue[^a-z0-9]*dragon[^a-z0-9]*plus$|^bluedragonplus$"
@@ -5096,6 +5316,16 @@
             "game": "Okamiden",
             "file": "jingles/nds/flapperultra/Okamiden (flapperultra).ogg",
             "regex": "^okamiden$|^okamiden$"
+        },
+        {
+            "game": "Peggle Dual Shot (V1)",
+            "file": "jingles/nds/SJH/Peggle Dual Shot (V1) (SJH).mp3",
+            "regex": "^peggle[^a-z0-9]*dual[^a-z0-9]*shot[^a-z0-9]*v1$|^peggledualshotv1$"
+        },
+        {
+            "game": "Peggle Dual Shot (V2)",
+            "file": "jingles/nds/SJH/Peggle Dual Shot (V2) (SJH).mp3",
+            "regex": "^peggle[^a-z0-9]*dual[^a-z0-9]*shot[^a-z0-9]*v2$|^peggledualshotv2$"
         },
         {
             "game": "Phantasy Star Zero",
@@ -6576,6 +6806,21 @@
             "regex": "^battle[^a-z0-9]*chess$|^battlechess$"
         },
         {
+            "game": "Bejeweled 2 Deluxe (V1)",
+            "file": "jingles/pc steam & multiplat/SJH/Bejeweled 2 Deluxe (V1) (SJH).mp3",
+            "regex": "^bejeweled[^a-z0-9]*2[^a-z0-9]*deluxe[^a-z0-9]*v1$|^bejeweled2deluxev1$"
+        },
+        {
+            "game": "Bejeweled 2 Deluxe (V2)",
+            "file": "jingles/pc steam & multiplat/SJH/Bejeweled 2 Deluxe (V2) (SJH).mp3",
+            "regex": "^bejeweled[^a-z0-9]*2[^a-z0-9]*deluxe[^a-z0-9]*v2$|^bejeweled2deluxev2$"
+        },
+        {
+            "game": "Bejeweled Deluxe",
+            "file": "jingles/pc steam & multiplat/SJH/Bejeweled Deluxe (SJH).mp3",
+            "regex": "^bejeweled[^a-z0-9]*deluxe$|^bejeweleddeluxe$"
+        },
+        {
             "game": "Bioshock",
             "file": "jingles/pc steam & multiplat/CirnoWaifu/Bioshock (CirnoWaifu).ogg",
             "regex": "^bioshock$|^bioshock$"
@@ -6684,6 +6929,36 @@
             "game": "Copy Kitty",
             "file": "jingles/pc steam & multiplat/CirnoWaifu/Copy Kitty (CirnoWaifu).ogg",
             "regex": "^copy[^a-z0-9]*kitty$|^copykitty$"
+        },
+        {
+            "game": "Crab Champions (V1)",
+            "file": "jingles/pc steam & multiplat/SJH/Crab Champions (V1) (SJH).mp3",
+            "regex": "^crab[^a-z0-9]*champions[^a-z0-9]*v1$|^crabchampionsv1$"
+        },
+        {
+            "game": "Crab Champions (V2)",
+            "file": "jingles/pc steam & multiplat/SJH/Crab Champions (V2) (SJH).mp3",
+            "regex": "^crab[^a-z0-9]*champions[^a-z0-9]*v2$|^crabchampionsv2$"
+        },
+        {
+            "game": "Crab Champions (V3)",
+            "file": "jingles/pc steam & multiplat/SJH/Crab Champions (V3) (SJH).mp3",
+            "regex": "^crab[^a-z0-9]*champions[^a-z0-9]*v3$|^crabchampionsv3$"
+        },
+        {
+            "game": "Crab Champions (V4)",
+            "file": "jingles/pc steam & multiplat/SJH/Crab Champions (V4) (SJH).mp3",
+            "regex": "^crab[^a-z0-9]*champions[^a-z0-9]*v4$|^crabchampionsv4$"
+        },
+        {
+            "game": "Crab Champions (V5)",
+            "file": "jingles/pc steam & multiplat/SJH/Crab Champions (V5) (SJH).mp3",
+            "regex": "^crab[^a-z0-9]*champions[^a-z0-9]*v5$|^crabchampionsv5$"
+        },
+        {
+            "game": "Crab Champions (V6)",
+            "file": "jingles/pc steam & multiplat/SJH/Crab Champions (V6) (SJH).mp3",
+            "regex": "^crab[^a-z0-9]*champions[^a-z0-9]*v6$|^crabchampionsv6$"
         },
         {
             "game": "Crash Bandicoot - Back in Time",
@@ -6799,6 +7074,76 @@
             "game": "Disco Elysium",
             "file": "jingles/pc steam & multiplat/Natalie/Disco Elysium (Natalie).ogg",
             "regex": "^disco[^a-z0-9]*elysium$|^discoelysium$"
+        },
+        {
+            "game": "Discord (V1)",
+            "file": "jingles/pc steam & multiplat/SJH/Discord (V1) (SJH).mp3",
+            "regex": "^discord[^a-z0-9]*v1$|^discordv1$"
+        },
+        {
+            "game": "Discord (V10)",
+            "file": "jingles/pc steam & multiplat/SJH/Discord (V10) (SJH).mp3",
+            "regex": "^discord[^a-z0-9]*v10$|^discordv10$"
+        },
+        {
+            "game": "Discord (V11)",
+            "file": "jingles/pc steam & multiplat/SJH/Discord (V11) (SJH).mp3",
+            "regex": "^discord[^a-z0-9]*v11$|^discordv11$"
+        },
+        {
+            "game": "Discord (V12)",
+            "file": "jingles/pc steam & multiplat/SJH/Discord (V12) (SJH).mp3",
+            "regex": "^discord[^a-z0-9]*v12$|^discordv12$"
+        },
+        {
+            "game": "Discord (V13)",
+            "file": "jingles/pc steam & multiplat/SJH/Discord (V13) (SJH).mp3",
+            "regex": "^discord[^a-z0-9]*v13$|^discordv13$"
+        },
+        {
+            "game": "Discord (V14)",
+            "file": "jingles/pc steam & multiplat/SJH/Discord (V14) (SJH).mp3",
+            "regex": "^discord[^a-z0-9]*v14$|^discordv14$"
+        },
+        {
+            "game": "Discord (V2)",
+            "file": "jingles/pc steam & multiplat/SJH/Discord (V2) (SJH).mp3",
+            "regex": "^discord[^a-z0-9]*v2$|^discordv2$"
+        },
+        {
+            "game": "Discord (V3)",
+            "file": "jingles/pc steam & multiplat/SJH/Discord (V3) (SJH).mp3",
+            "regex": "^discord[^a-z0-9]*v3$|^discordv3$"
+        },
+        {
+            "game": "Discord (V4)",
+            "file": "jingles/pc steam & multiplat/SJH/Discord (V4) (SJH).mp3",
+            "regex": "^discord[^a-z0-9]*v4$|^discordv4$"
+        },
+        {
+            "game": "Discord (V5)",
+            "file": "jingles/pc steam & multiplat/SJH/Discord (V5) (SJH).mp3",
+            "regex": "^discord[^a-z0-9]*v5$|^discordv5$"
+        },
+        {
+            "game": "Discord (V6)",
+            "file": "jingles/pc steam & multiplat/SJH/Discord (V6) (SJH).mp3",
+            "regex": "^discord[^a-z0-9]*v6$|^discordv6$"
+        },
+        {
+            "game": "Discord (V7)",
+            "file": "jingles/pc steam & multiplat/SJH/Discord (V7) (SJH).mp3",
+            "regex": "^discord[^a-z0-9]*v7$|^discordv7$"
+        },
+        {
+            "game": "Discord (V8)",
+            "file": "jingles/pc steam & multiplat/SJH/Discord (V8) (SJH).mp3",
+            "regex": "^discord[^a-z0-9]*v8$|^discordv8$"
+        },
+        {
+            "game": "Discord (V9)",
+            "file": "jingles/pc steam & multiplat/SJH/Discord (V9) (SJH).mp3",
+            "regex": "^discord[^a-z0-9]*v9$|^discordv9$"
         },
         {
             "game": "Disgaea 4 - A Promise Unforgotten",
@@ -7096,6 +7441,166 @@
             "regex": "^geometry[^a-z0-9]*dash$|^geometrydash$"
         },
         {
+            "game": "Geometry Dash (SFX1)",
+            "file": "jingles/pc steam & multiplat/SJH/Geometry Dash (SFX1) (SJH).mp3",
+            "regex": "^geometry[^a-z0-9]*dash[^a-z0-9]*sfx1$|^geometrydashsfx1$"
+        },
+        {
+            "game": "Geometry Dash (SFX2)",
+            "file": "jingles/pc steam & multiplat/SJH/Geometry Dash (SFX2) (SJH).mp3",
+            "regex": "^geometry[^a-z0-9]*dash[^a-z0-9]*sfx2$|^geometrydashsfx2$"
+        },
+        {
+            "game": "Geometry Dash (SFX3)",
+            "file": "jingles/pc steam & multiplat/SJH/Geometry Dash (SFX3) (SJH).mp3",
+            "regex": "^geometry[^a-z0-9]*dash[^a-z0-9]*sfx3$|^geometrydashsfx3$"
+        },
+        {
+            "game": "Geometry Dash (SFX4)",
+            "file": "jingles/pc steam & multiplat/SJH/Geometry Dash (SFX4) (SJH).mp3",
+            "regex": "^geometry[^a-z0-9]*dash[^a-z0-9]*sfx4$|^geometrydashsfx4$"
+        },
+        {
+            "game": "Geometry Dash (SFX5)",
+            "file": "jingles/pc steam & multiplat/SJH/Geometry Dash (SFX5) (SJH).mp3",
+            "regex": "^geometry[^a-z0-9]*dash[^a-z0-9]*sfx5$|^geometrydashsfx5$"
+        },
+        {
+            "game": "Geometry Dash (SFX6)",
+            "file": "jingles/pc steam & multiplat/SJH/Geometry Dash (SFX6) (SJH).mp3",
+            "regex": "^geometry[^a-z0-9]*dash[^a-z0-9]*sfx6$|^geometrydashsfx6$"
+        },
+        {
+            "game": "Geometry Dash (SFX7)",
+            "file": "jingles/pc steam & multiplat/SJH/Geometry Dash (SFX7) (SJH).mp3",
+            "regex": "^geometry[^a-z0-9]*dash[^a-z0-9]*sfx7$|^geometrydashsfx7$"
+        },
+        {
+            "game": "Geometry Dash (SFX8)",
+            "file": "jingles/pc steam & multiplat/SJH/Geometry Dash (SFX8) (SJH).mp3",
+            "regex": "^geometry[^a-z0-9]*dash[^a-z0-9]*sfx8$|^geometrydashsfx8$"
+        },
+        {
+            "game": "Geometry Dash (V1)",
+            "file": "jingles/pc steam & multiplat/SJH/Geometry Dash (V1) (SJH).mp3",
+            "regex": "^geometry[^a-z0-9]*dash[^a-z0-9]*v1$|^geometrydashv1$"
+        },
+        {
+            "game": "Geometry Dash (V10)",
+            "file": "jingles/pc steam & multiplat/SJH/Geometry Dash (V10) (SJH).mp3",
+            "regex": "^geometry[^a-z0-9]*dash[^a-z0-9]*v10$|^geometrydashv10$"
+        },
+        {
+            "game": "Geometry Dash (V11)",
+            "file": "jingles/pc steam & multiplat/SJH/Geometry Dash (V11) (SJH).mp3",
+            "regex": "^geometry[^a-z0-9]*dash[^a-z0-9]*v11$|^geometrydashv11$"
+        },
+        {
+            "game": "Geometry Dash (V12)",
+            "file": "jingles/pc steam & multiplat/SJH/Geometry Dash (V12) (SJH).mp3",
+            "regex": "^geometry[^a-z0-9]*dash[^a-z0-9]*v12$|^geometrydashv12$"
+        },
+        {
+            "game": "Geometry Dash (V13)",
+            "file": "jingles/pc steam & multiplat/SJH/Geometry Dash (V13) (SJH).mp3",
+            "regex": "^geometry[^a-z0-9]*dash[^a-z0-9]*v13$|^geometrydashv13$"
+        },
+        {
+            "game": "Geometry Dash (V14)",
+            "file": "jingles/pc steam & multiplat/SJH/Geometry Dash (V14) (SJH).mp3",
+            "regex": "^geometry[^a-z0-9]*dash[^a-z0-9]*v14$|^geometrydashv14$"
+        },
+        {
+            "game": "Geometry Dash (V15)",
+            "file": "jingles/pc steam & multiplat/SJH/Geometry Dash (V15) (SJH).mp3",
+            "regex": "^geometry[^a-z0-9]*dash[^a-z0-9]*v15$|^geometrydashv15$"
+        },
+        {
+            "game": "Geometry Dash (V16)",
+            "file": "jingles/pc steam & multiplat/SJH/Geometry Dash (V16) (SJH).mp3",
+            "regex": "^geometry[^a-z0-9]*dash[^a-z0-9]*v16$|^geometrydashv16$"
+        },
+        {
+            "game": "Geometry Dash (V17)",
+            "file": "jingles/pc steam & multiplat/SJH/Geometry Dash (V17) (SJH).mp3",
+            "regex": "^geometry[^a-z0-9]*dash[^a-z0-9]*v17$|^geometrydashv17$"
+        },
+        {
+            "game": "Geometry Dash (V18)",
+            "file": "jingles/pc steam & multiplat/SJH/Geometry Dash (V18) (SJH).mp3",
+            "regex": "^geometry[^a-z0-9]*dash[^a-z0-9]*v18$|^geometrydashv18$"
+        },
+        {
+            "game": "Geometry Dash (V19)",
+            "file": "jingles/pc steam & multiplat/SJH/Geometry Dash (V19) (SJH).mp3",
+            "regex": "^geometry[^a-z0-9]*dash[^a-z0-9]*v19$|^geometrydashv19$"
+        },
+        {
+            "game": "Geometry Dash (V2)",
+            "file": "jingles/pc steam & multiplat/SJH/Geometry Dash (V2) (SJH).mp3",
+            "regex": "^geometry[^a-z0-9]*dash[^a-z0-9]*v2$|^geometrydashv2$"
+        },
+        {
+            "game": "Geometry Dash (V20)",
+            "file": "jingles/pc steam & multiplat/SJH/Geometry Dash (V20) (SJH).mp3",
+            "regex": "^geometry[^a-z0-9]*dash[^a-z0-9]*v20$|^geometrydashv20$"
+        },
+        {
+            "game": "Geometry Dash (V21)",
+            "file": "jingles/pc steam & multiplat/SJH/Geometry Dash (V21) (SJH).mp3",
+            "regex": "^geometry[^a-z0-9]*dash[^a-z0-9]*v21$|^geometrydashv21$"
+        },
+        {
+            "game": "Geometry Dash (V22)",
+            "file": "jingles/pc steam & multiplat/SJH/Geometry Dash (V22) (SJH).mp3",
+            "regex": "^geometry[^a-z0-9]*dash[^a-z0-9]*v22$|^geometrydashv22$"
+        },
+        {
+            "game": "Geometry Dash (V23)",
+            "file": "jingles/pc steam & multiplat/SJH/Geometry Dash (V23) (SJH).mp3",
+            "regex": "^geometry[^a-z0-9]*dash[^a-z0-9]*v23$|^geometrydashv23$"
+        },
+        {
+            "game": "Geometry Dash (V24)",
+            "file": "jingles/pc steam & multiplat/SJH/Geometry Dash (V24) (SJH).mp3",
+            "regex": "^geometry[^a-z0-9]*dash[^a-z0-9]*v24$|^geometrydashv24$"
+        },
+        {
+            "game": "Geometry Dash (V3)",
+            "file": "jingles/pc steam & multiplat/SJH/Geometry Dash (V3) (SJH).mp3",
+            "regex": "^geometry[^a-z0-9]*dash[^a-z0-9]*v3$|^geometrydashv3$"
+        },
+        {
+            "game": "Geometry Dash (V4)",
+            "file": "jingles/pc steam & multiplat/SJH/Geometry Dash (V4) (SJH).mp3",
+            "regex": "^geometry[^a-z0-9]*dash[^a-z0-9]*v4$|^geometrydashv4$"
+        },
+        {
+            "game": "Geometry Dash (V5)",
+            "file": "jingles/pc steam & multiplat/SJH/Geometry Dash (V5) (SJH).mp3",
+            "regex": "^geometry[^a-z0-9]*dash[^a-z0-9]*v5$|^geometrydashv5$"
+        },
+        {
+            "game": "Geometry Dash (V6)",
+            "file": "jingles/pc steam & multiplat/SJH/Geometry Dash (V6) (SJH).mp3",
+            "regex": "^geometry[^a-z0-9]*dash[^a-z0-9]*v6$|^geometrydashv6$"
+        },
+        {
+            "game": "Geometry Dash (V7)",
+            "file": "jingles/pc steam & multiplat/SJH/Geometry Dash (V7) (SJH).mp3",
+            "regex": "^geometry[^a-z0-9]*dash[^a-z0-9]*v7$|^geometrydashv7$"
+        },
+        {
+            "game": "Geometry Dash (V8)",
+            "file": "jingles/pc steam & multiplat/SJH/Geometry Dash (V8) (SJH).mp3",
+            "regex": "^geometry[^a-z0-9]*dash[^a-z0-9]*v8$|^geometrydashv8$"
+        },
+        {
+            "game": "Geometry Dash (V9)",
+            "file": "jingles/pc steam & multiplat/SJH/Geometry Dash (V9) (SJH).mp3",
+            "regex": "^geometry[^a-z0-9]*dash[^a-z0-9]*v9$|^geometrydashv9$"
+        },
+        {
             "game": "Ghost Trick - Phantom Detective",
             "file": "jingles/pc steam & multiplat/CirnoWaifu/Ghost Trick - Phantom Detective (CirnoWaifu).ogg",
             "regex": "^ghost[^a-z0-9]*trick[^a-z0-9]*phantom[^a-z0-9]*detective$|^ghosttrickphantomdetective$"
@@ -7219,6 +7724,21 @@
             "game": "Hyperdimension Neptunia U - Action Unleashed",
             "file": "jingles/pc steam & multiplat/CirnoWaifu/Hyperdimension Neptunia U - Action Unleashed (CirnoWaifu).ogg",
             "regex": "^hyperdimension[^a-z0-9]*neptunia[^a-z0-9]*u[^a-z0-9]*action[^a-z0-9]*unleashed$|^hyperdimensionneptuniauactionunleashed$"
+        },
+        {
+            "game": "Hytale (V1)",
+            "file": "jingles/pc steam & multiplat/SJH/Hytale (V1) (SJH).mp3",
+            "regex": "^hytale[^a-z0-9]*v1$|^hytalev1$"
+        },
+        {
+            "game": "Hytale (V2)",
+            "file": "jingles/pc steam & multiplat/SJH/Hytale (V2) (SJH).mp3",
+            "regex": "^hytale[^a-z0-9]*v2$|^hytalev2$"
+        },
+        {
+            "game": "Hytale (V3)",
+            "file": "jingles/pc steam & multiplat/SJH/Hytale (V3) (SJH).mp3",
+            "regex": "^hytale[^a-z0-9]*v3$|^hytalev3$"
         },
         {
             "game": "Judgment",
@@ -7436,6 +7956,41 @@
             "regex": "^minecraft$|^minecraft$"
         },
         {
+            "game": "Minecraft (SFX1)",
+            "file": "jingles/pc steam & multiplat/SJH/Minecraft (SFX1) (SJH).mp3",
+            "regex": "^minecraft[^a-z0-9]*sfx1$|^minecraftsfx1$"
+        },
+        {
+            "game": "Minecraft (SFX2)",
+            "file": "jingles/pc steam & multiplat/SJH/Minecraft (SFX2) (SJH).mp3",
+            "regex": "^minecraft[^a-z0-9]*sfx2$|^minecraftsfx2$"
+        },
+        {
+            "game": "Minecraft (SFX3)",
+            "file": "jingles/pc steam & multiplat/SJH/Minecraft (SFX3) (SJH).mp3",
+            "regex": "^minecraft[^a-z0-9]*sfx3$|^minecraftsfx3$"
+        },
+        {
+            "game": "Minecraft (V1)",
+            "file": "jingles/pc steam & multiplat/SJH/Minecraft (V1) (SJH).mp3",
+            "regex": "^minecraft[^a-z0-9]*v1$|^minecraftv1$"
+        },
+        {
+            "game": "Minecraft (V2)",
+            "file": "jingles/pc steam & multiplat/SJH/Minecraft (V2) (SJH).mp3",
+            "regex": "^minecraft[^a-z0-9]*v2$|^minecraftv2$"
+        },
+        {
+            "game": "Minecraft (V3)",
+            "file": "jingles/pc steam & multiplat/SJH/Minecraft (V3) (SJH).mp3",
+            "regex": "^minecraft[^a-z0-9]*v3$|^minecraftv3$"
+        },
+        {
+            "game": "Minecraft (V4)",
+            "file": "jingles/pc steam & multiplat/SJH/Minecraft (V4) (SJH).mp3",
+            "regex": "^minecraft[^a-z0-9]*v4$|^minecraftv4$"
+        },
+        {
             "game": "Momodora Moonlit Farewell",
             "file": "jingles/pc steam & multiplat/CirnoWaifu/Momodora Moonlit Farewell (CirnoWaifu).ogg",
             "regex": "^momodora[^a-z0-9]*moonlit[^a-z0-9]*farewell$|^momodoramoonlitfarewell$"
@@ -7529,6 +8084,51 @@
             "game": "Payday 2",
             "file": "jingles/pc steam & multiplat/CirnoWaifu/Payday 2 (CirnoWaifu).ogg",
             "regex": "^payday[^a-z0-9]*2$|^payday2$"
+        },
+        {
+            "game": "Peggle Deluxe (SFX1)",
+            "file": "jingles/pc steam & multiplat/SJH/Peggle Deluxe (SFX1) (SJH).mp3",
+            "regex": "^peggle[^a-z0-9]*deluxe[^a-z0-9]*sfx1$|^peggledeluxesfx1$"
+        },
+        {
+            "game": "Peggle Deluxe (SFX2)",
+            "file": "jingles/pc steam & multiplat/SJH/Peggle Deluxe (SFX2) (SJH).mp3",
+            "regex": "^peggle[^a-z0-9]*deluxe[^a-z0-9]*sfx2$|^peggledeluxesfx2$"
+        },
+        {
+            "game": "Peggle Deluxe (SFX3)",
+            "file": "jingles/pc steam & multiplat/SJH/Peggle Deluxe (SFX3) (SJH).mp3",
+            "regex": "^peggle[^a-z0-9]*deluxe[^a-z0-9]*sfx3$|^peggledeluxesfx3$"
+        },
+        {
+            "game": "Peggle Deluxe (SFX4)",
+            "file": "jingles/pc steam & multiplat/SJH/Peggle Deluxe (SFX4) (SJH).mp3",
+            "regex": "^peggle[^a-z0-9]*deluxe[^a-z0-9]*sfx4$|^peggledeluxesfx4$"
+        },
+        {
+            "game": "Peggle Deluxe (SFX5)",
+            "file": "jingles/pc steam & multiplat/SJH/Peggle Deluxe (SFX5) (SJH).mp3",
+            "regex": "^peggle[^a-z0-9]*deluxe[^a-z0-9]*sfx5$|^peggledeluxesfx5$"
+        },
+        {
+            "game": "Peggle Deluxe (SFX6)",
+            "file": "jingles/pc steam & multiplat/SJH/Peggle Deluxe (SFX6) (SJH).mp3",
+            "regex": "^peggle[^a-z0-9]*deluxe[^a-z0-9]*sfx6$|^peggledeluxesfx6$"
+        },
+        {
+            "game": "Peggle Deluxe (V1)",
+            "file": "jingles/pc steam & multiplat/SJH/Peggle Deluxe (V1) (SJH).mp3",
+            "regex": "^peggle[^a-z0-9]*deluxe[^a-z0-9]*v1$|^peggledeluxev1$"
+        },
+        {
+            "game": "Peggle Deluxe (V2)",
+            "file": "jingles/pc steam & multiplat/SJH/Peggle Deluxe (V2) (SJH).mp3",
+            "regex": "^peggle[^a-z0-9]*deluxe[^a-z0-9]*v2$|^peggledeluxev2$"
+        },
+        {
+            "game": "Peggle Nights",
+            "file": "jingles/pc steam & multiplat/SJH/Peggle Nights (SJH).mp3",
+            "regex": "^peggle[^a-z0-9]*nights$|^pegglenights$"
         },
         {
             "game": "Peglin",
@@ -7794,6 +8394,11 @@
             "game": "Rivals of Aether",
             "file": "jingles/pc steam & multiplat/Natalie/Rivals of Aether (Natalie).ogg",
             "regex": "^rivals[^a-z0-9]*of[^a-z0-9]*aether$|^rivalsofaether$"
+        },
+        {
+            "game": "Roblox",
+            "file": "jingles/pc steam & multiplat/SJH/Roblox (SJH).mp3",
+            "regex": "^roblox$|^roblox$"
         },
         {
             "game": "Rogue Legacy",
@@ -11254,11 +11859,6 @@
             "game": "Part Time UFO",
             "file": "jingles/switch/flapperultra/Part Time UFO (flapperultra).ogg",
             "regex": "^part[^a-z0-9]*time[^a-z0-9]*ufo$|^parttimeufo$"
-        },
-        {
-            "game": "PICROSS S+",
-            "file": "jingles/switch/Viator/PICROSS S+ (Viator).ogg",
-            "regex": "^picross[^a-z0-9]*s$|^picrosss$"
         },
         {
             "game": "Pikmin 4",

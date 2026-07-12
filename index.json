@@ -11429,24 +11429,24 @@
             "regex": "^super[^a-z0-9]*mario[^a-z0-9]*all[^a-z0-9]*stars$|^supermarioallstars$"
         },
         {
-            "game": "Super Mario CD (aloha) (hack)",
+            "game": "Super Mario Bros. CD (aloha) (hack)",
             "file": "jingles/snes/Felipne87r/Super Mario CD (aloha) (hack) (Felipne87r).ogg",
-            "regex": "^super[^a-z0-9]*mario[^a-z0-9]*cd[^a-z0-9]*aloha[^a-z0-9]*hack$|^supermariocdalohahack$"
+            "regex": "^super[^a-z0-9]*mario[^a-z0-9]*bros[^a-z0-9]*cd[^a-z0-9]*aloha[^a-z0-9]*hack$|^supermariobroscdalohahack$"
         },
         {
-            "game": "Super Mario CD (barracuda barry) (hack)",
+            "game": "Super Mario Bros. CD (barracuda barry) (hack)",
             "file": "jingles/snes/Felipne87r/Super Mario CD (barracuda barry) (hack) (Felipne87r).ogg",
-            "regex": "^super[^a-z0-9]*mario[^a-z0-9]*cd[^a-z0-9]*barracuda[^a-z0-9]*barry[^a-z0-9]*hack$|^supermariocdbarracudabarryhack$"
+            "regex": "^super[^a-z0-9]*mario[^a-z0-9]*bros[^a-z0-9]*cd[^a-z0-9]*barracuda[^a-z0-9]*barry[^a-z0-9]*hack$|^supermariobroscdbarracudabarryhack$"
         },
         {
-            "game": "Super Mario CD (beach) (hack)",
+            "game": "Super Mario Bros. CD (beach) (hack)",
             "file": "jingles/snes/Felipne87r/Super Mario CD (beach) (hack) (Felipne87r).ogg",
-            "regex": "^super[^a-z0-9]*mario[^a-z0-9]*cd[^a-z0-9]*beach[^a-z0-9]*hack$|^supermariocdbeachhack$"
+            "regex": "^super[^a-z0-9]*mario[^a-z0-9]*bros[^a-z0-9]*cd[^a-z0-9]*beach[^a-z0-9]*hack$|^supermariobroscdbeachhack$"
         },
         {
-            "game": "Super Mario CD (grasslands) (hack)",
+            "game": "Super Mario Bros. CD (grasslands) (hack)",
             "file": "jingles/snes/Felipne87r/Super Mario CD (grasslands) (hack) (Felipne87r).ogg",
-            "regex": "^super[^a-z0-9]*mario[^a-z0-9]*cd[^a-z0-9]*grasslands[^a-z0-9]*hack$|^supermariocdgrasslandshack$"
+            "regex": "^super[^a-z0-9]*mario[^a-z0-9]*bros[^a-z0-9]*cd[^a-z0-9]*grasslands[^a-z0-9]*hack$|^supermariobroscdgrasslandshack$"
         },
         {
             "game": "Super Mario Kart",

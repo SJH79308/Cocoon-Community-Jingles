@@ -9685,9 +9685,204 @@
     ],
     "pce": [
         {
+            "game": "1943 - Kai",
+            "file": "jingles/pce/flapperultra/1943 - Kai (flapperultra).ogg",
+            "regex": "^1943[^a-z0-9]*kai$|^1943kai$"
+        },
+        {
+            "game": "Alien Crush",
+            "file": "jingles/pce/flapperultra/Alien Crush (flapperultra).ogg",
+            "regex": "^alien[^a-z0-9]*crush$|^aliencrush$"
+        },
+        {
+            "game": "Blazing Lazers",
+            "file": "jingles/pce/flapperultra/Blazing Lazers (flapperultra).ogg",
+            "regex": "^blazing[^a-z0-9]*lazers$|^blazinglazers$"
+        },
+        {
+            "game": "Bloody Wolf",
+            "file": "jingles/pce/flapperultra/Bloody Wolf (flapperultra).ogg",
+            "regex": "^bloody[^a-z0-9]*wolf$|^bloodywolf$"
+        },
+        {
+            "game": "Bomberman '93",
+            "file": "jingles/pce/flapperultra/Bomberman '93 (flapperultra).ogg",
+            "regex": "^bomberman[^a-z0-9]*93$|^bomberman93$"
+        },
+        {
+            "game": "Bomberman '94",
+            "file": "jingles/pce/flapperultra/Bomberman '94 (flapperultra).ogg",
+            "regex": "^bomberman[^a-z0-9]*94$|^bomberman94$"
+        },
+        {
+            "game": "Bonk's Adventure",
+            "file": "jingles/pce/flapperultra/Bonk's Adventure (flapperultra).ogg",
+            "regex": "^bonk[^a-z0-9]*s[^a-z0-9]*adventure$|^bonksadventure$"
+        },
+        {
+            "game": "Bonk's Revenge",
+            "file": "jingles/pce/flapperultra/Bonk's Revenge (flapperultra).ogg",
+            "regex": "^bonk[^a-z0-9]*s[^a-z0-9]*revenge$|^bonksrevenge$"
+        },
+        {
+            "game": "Bonks III - Bonks Big Adventure",
+            "file": "jingles/pce/flapperultra/Bonks III - Bonks Big Adventure (flapperultra).ogg",
+            "regex": "^bonks[^a-z0-9]*iii[^a-z0-9]*bonks[^a-z0-9]*big[^a-z0-9]*adventure$|^bonksiiibonksbigadventure$"
+        },
+        {
+            "game": "Cadash",
+            "file": "jingles/pce/flapperultra/Cadash (flapperultra).ogg",
+            "regex": "^cadash$|^cadash$"
+        },
+        {
+            "game": "Coryoon - Child of the Dragon",
+            "file": "jingles/pce/flapperultra/Coryoon - Child of the Dragon (flapperultra).ogg",
+            "regex": "^coryoon[^a-z0-9]*child[^a-z0-9]*of[^a-z0-9]*the[^a-z0-9]*dragon$|^coryoonchildofthedragon$"
+        },
+        {
+            "game": "Detana Twinbee",
+            "file": "jingles/pce/flapperultra/Detana Twinbee (flapperultra).ogg",
+            "regex": "^detana[^a-z0-9]*twinbee$|^detanatwinbee$"
+        },
+        {
+            "game": "Devils Crush",
+            "file": "jingles/pce/flapperultra/Devils Crush (flapperultra).ogg",
+            "regex": "^devils[^a-z0-9]*crush$|^devilscrush$"
+        },
+        {
+            "game": "Download",
+            "file": "jingles/pce/flapperultra/Download (flapperultra).ogg",
+            "regex": "^download$|^download$"
+        },
+        {
+            "game": "Dungeons and Dragons - Order of the Griffon",
+            "file": "jingles/pce/flapperultra/Dungeons and Dragons - Order of the Griffon.ogg",
+            "regex": "^dungeons[^a-z0-9]*and[^a-z0-9]*dragons[^a-z0-9]*order[^a-z0-9]*of[^a-z0-9]*the[^a-z0-9]*griffon$|^dungeonsanddragonsorderofthegriffon$"
+        },
+        {
+            "game": "Final Lap Twin",
+            "file": "jingles/pce/flapperultra/Final Lap Twin (flapperultra).ogg",
+            "regex": "^final[^a-z0-9]*lap[^a-z0-9]*twin$|^finallaptwin$"
+        },
+        {
+            "game": "Keith Courage in Alpha Zones",
+            "file": "jingles/pce/flapperultra/Keith Courage in Alpha Zones (flapperultra).ogg",
+            "regex": "^keith[^a-z0-9]*courage[^a-z0-9]*in[^a-z0-9]*alpha[^a-z0-9]*zones$|^keithcourageinalphazones$"
+        },
+        {
+            "game": "Maerchen Maze",
+            "file": "jingles/pce/flapperultra/Maerchen Maze (flapperultra).ogg",
+            "regex": "^maerchen[^a-z0-9]*maze$|^maerchenmaze$"
+        },
+        {
+            "game": "Mesopotamia (Somer Assault)",
+            "file": "jingles/pce/flapperultra/Mesopotamia (Somer Assault) (flapperultra).ogg",
+            "regex": "^mesopotamia[^a-z0-9]*somer[^a-z0-9]*assault$|^mesopotamiasomerassault$"
+        },
+        {
+            "game": "Military Madness",
+            "file": "jingles/pce/flapperultra/Military Madness (flapperultra).ogg",
+            "regex": "^military[^a-z0-9]*madness$|^militarymadness$"
+        },
+        {
             "game": "Neutopia",
             "file": "jingles/pce/CirnoWaifu/Neutopia (CirnoWaifu).ogg",
             "regex": "^neutopia$|^neutopia$"
+        },
+        {
+            "game": "Neutopia",
+            "file": "jingles/pce/flapperultra/Neutopia (flapperultra).ogg",
+            "regex": "^neutopia$|^neutopia$"
+        },
+        {
+            "game": "Neutopia II",
+            "file": "jingles/pce/flapperultra/Neutopia II (flapperultra).ogg",
+            "regex": "^neutopia[^a-z0-9]*ii$|^neutopiaii$"
+        },
+        {
+            "game": "New Adventure Island",
+            "file": "jingles/pce/flapperultra/New Adventure Island (flapperultra).ogg",
+            "regex": "^new[^a-z0-9]*adventure[^a-z0-9]*island$|^newadventureisland$"
+        },
+        {
+            "game": "Ninja Spirit",
+            "file": "jingles/pce/flapperultra/Ninja Spirit (flapperultra).ogg",
+            "regex": "^ninja[^a-z0-9]*spirit$|^ninjaspirit$"
+        },
+        {
+            "game": "Override",
+            "file": "jingles/pce/flapperultra/Override (flapperultra).ogg",
+            "regex": "^override$|^override$"
+        },
+        {
+            "game": "Parasol Stars - The Story of Bubble Bobble 3",
+            "file": "jingles/pce/flapperultra/Parasol Stars - The Story of Bubble Bobble 3 (flapperultra).ogg",
+            "regex": "^parasol[^a-z0-9]*stars[^a-z0-9]*the[^a-z0-9]*story[^a-z0-9]*of[^a-z0-9]*bubble[^a-z0-9]*bobble[^a-z0-9]*3$|^parasolstarsthestoryofbubblebobble3$"
+        },
+        {
+            "game": "Psychosis",
+            "file": "jingles/pce/flapperultra/Psychosis (flapperultra).ogg",
+            "regex": "^psychosis$|^psychosis$"
+        },
+        {
+            "game": "Puzzle Boy",
+            "file": "jingles/pce/flapperultra/Puzzle Boy (flapperultra).ogg",
+            "regex": "^puzzle[^a-z0-9]*boy$|^puzzleboy$"
+        },
+        {
+            "game": "Raiden",
+            "file": "jingles/pce/flapperultra/Raiden (flapperultra).ogg",
+            "regex": "^raiden$|^raiden$"
+        },
+        {
+            "game": "Shockman",
+            "file": "jingles/pce/flapperultra/Shockman (flapperultra).ogg",
+            "regex": "^shockman$|^shockman$"
+        },
+        {
+            "game": "Soldier Blade",
+            "file": "jingles/pce/flapperultra/Soldier Blade (flapperultra).ogg",
+            "regex": "^soldier[^a-z0-9]*blade$|^soldierblade$"
+        },
+        {
+            "game": "Splatterhouse",
+            "file": "jingles/pce/flapperultra/Splatterhouse (flapperultra).ogg",
+            "regex": "^splatterhouse$|^splatterhouse$"
+        },
+        {
+            "game": "Super Star Solider",
+            "file": "jingles/pce/flapperultra/Super Star Solider (flapperultra).ogg",
+            "regex": "^super[^a-z0-9]*star[^a-z0-9]*solider$|^superstarsolider$"
+        },
+        {
+            "game": "tatsujin (truxton)",
+            "file": "jingles/pce/flapperultra/tatsujin (truxton) (flapperultra).ogg",
+            "regex": "^tatsujin[^a-z0-9]*truxton$|^tatsujintruxton$"
+        },
+        {
+            "game": "The Legendary Axe",
+            "file": "jingles/pce/flapperultra/The Legendary Axe (flapperultra).ogg",
+            "regex": "^the[^a-z0-9]*legendary[^a-z0-9]*axe$|^thelegendaryaxe$"
+        },
+        {
+            "game": "The Legendary Axe II",
+            "file": "jingles/pce/flapperultra/The Legendary Axe II (flapperultra).ogg",
+            "regex": "^the[^a-z0-9]*legendary[^a-z0-9]*axe[^a-z0-9]*ii$|^thelegendaryaxeii$"
+        },
+        {
+            "game": "Time Cruise",
+            "file": "jingles/pce/flapperultra/Time Cruise (flapperultra).ogg",
+            "regex": "^time[^a-z0-9]*cruise$|^timecruise$"
+        },
+        {
+            "game": "Twin Cobra",
+            "file": "jingles/pce/flapperultra/Twin Cobra (flapperultra).ogg",
+            "regex": "^twin[^a-z0-9]*cobra$|^twincobra$"
+        },
+        {
+            "game": "Valkyrie No Densetsu (Legend of Valkyrie)",
+            "file": "jingles/pce/flapperultra/Valkyrie No Densetsu (Legend of Valkyrie) (flapperultra).ogg",
+            "regex": "^valkyrie[^a-z0-9]*no[^a-z0-9]*densetsu[^a-z0-9]*legend[^a-z0-9]*of[^a-z0-9]*valkyrie$|^valkyrienodensetsulegendofvalkyrie$"
         }
     ],
     "pce cd": [

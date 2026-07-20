@@ -5043,7 +5043,7 @@
             "regex": "^avalon[^a-z0-9]*code[^a-z0-9]*short$|^avaloncodeshort$"
         },
         {
-            "game": "Bejeweled 3 (V1)",
+            "game": "1eled 3 (V1)",
             "file": "jingles/nds/SJH/Bejeweled 3 (V1) (SJH).mp3",
             "regex": "^bejeweled[^a-z0-9]*3[^a-z0-9]*v1$|^bejeweled3v1$"
         },
@@ -10146,8 +10146,8 @@
     ],
     "ps2": [
         {
-            "game": " (V1)",
-            "file": "jingles/ps2/SJH/ (V1) (SJH).mp3",
+            "game": "Ape Escape (V1)",
+            "file": "jingles/ps2/SJH/Ape Escape (V1) (SJH).mp3",
             "regex": "^ape[^a-z0-9]*escape[^a-z0-9]*v1$|^apeescapev1$"
         },
         {
@@ -11247,13 +11247,13 @@
             "regex": "^alundra$|^alundra$"
         },
         {
-            "game": "",
-            "file": "jingles/psx/flapperultra/ (flapperultra).ogg",
+            "game": "Ape Escape",
+            "file": "jingles/psx/flapperultra/Ape Escape (flapperultra).ogg",
             "regex": "^ape[^a-z0-9]*escape$|^apeescape$"
         },
         {
-            "game": "",
-            "file": "jingles/psx/BennyTheFirstHunter/ (BennyTheFirstHunter).ogg",
+            "game": "ape escape",
+            "file": "jingles/psx/BennyTheFirstHunter/ape escape (BennyTheFirstHunter).ogg",
             "regex": "^ape[^a-z0-9]*escape$|^apeescape$"
         },
         {

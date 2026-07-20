@@ -5043,7 +5043,7 @@
             "regex": "^avalon[^a-z0-9]*code[^a-z0-9]*short$|^avaloncodeshort$"
         },
         {
-            "game": "1eled 3 (V1)",
+            "game": "Bejeweled 3 (V1)",
             "file": "jingles/nds/SJH/Bejeweled 3 (V1) (SJH).mp3",
             "regex": "^bejeweled[^a-z0-9]*3[^a-z0-9]*v1$|^bejeweled3v1$"
         },
